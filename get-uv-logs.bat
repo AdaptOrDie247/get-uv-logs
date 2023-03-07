@@ -22,10 +22,10 @@
 set "UV_LOGS_PATH=%appdata%\UltraViewer"
 
 :: This path is the save location for the logs files.
-set "COPY_DEST=.\copied-from-host\"
+set "COPY_DEST=.\copied-from-host"
 
 :: This path is the save location for the host environment info.
-set "ENV_INFO_DEST=.\env-info\"
+set "ENV_INFO_DEST=.\env-info"
 
 echo.
 echo Ensuring USB destination directories exist...
