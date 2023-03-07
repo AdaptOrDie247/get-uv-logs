@@ -21,10 +21,10 @@
 :: This is based on the install (exe) version of the software, not the portable (zip) version.
 set "UV_LOGS_PATH=%appdata%\UltraViewer"
 
-:: This path is the save location for the logs files.
+:: Destination directory for where to copy the logs files to.
 set "COPY_DEST=.\copied-from-host"
 
-:: This path is the save location for the host environment info.
+:: Destination directory for where to copy the host environment info to.
 set "ENV_INFO_DEST=.\env-info"
 
 echo.
