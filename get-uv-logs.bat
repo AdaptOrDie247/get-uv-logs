@@ -56,6 +56,7 @@ ipconfig /all > %ENV_INFO_DEST%\ipconfig-all.txt
 echo Getting system information...
 echo.
 
+:: This should include the time zone information, which is critical.
 systeminfo > %ENV_INFO_DEST%\system-info.txt
 
 echo Operation complete.
