@@ -1,3 +1,4 @@
+
 # Get UV Logs
 
 ## Summary
@@ -9,3 +10,6 @@
 2. Open USB drive in File Explorer on target host.
 3. Right click get-uv-logs.bat then click "Run as administrator".
 4. Files and info will be copied to the appropriate destination directories.
+
+## Notes
+- Tested using install (exe) version of UltraViewer 6.6 on Windows 10 Pro.
